@@ -1,0 +1,7 @@
+page 0 : sign in / sign up 
+page 1 : home page 
+page 2 : accounts page - 'key name'
+page 3 : encryption keys page - 'name the key'
+page 4 : random password generation page 
+page 5 : random key generator
+page 6 : account details / sign out 
